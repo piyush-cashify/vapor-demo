@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/Piyush/Documents/Workspace/iOS/DemoApps/VaporDemo/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
